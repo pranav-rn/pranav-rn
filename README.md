@@ -91,14 +91,14 @@ src="https://img.shields.io/github/followers/pranav-rn?logo=github&style=for-the
 <h1 align="center">GitHub Statistics</h1>
 <table>
   <tr>
-    <td colspan = "2"><a href="https://github.com/lekhya25"><img width=100% src="https://github-profile-trophy.vercel.app/?username=lekhya25&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+    <td colspan = "2"><a href="https://github.com/pranav-rn"><img width=100% src="https://github-profile-trophy.vercel.app/?username=pranav-rn&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
   </tr>
 	<tr>
-		<td colspan = "2"><a href = "https://github.com/lekhya25"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lekhya25&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+		<td colspan = "2"><a href = "https://github.com/pranav-rn"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-rn&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/lekhya25"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lekhya25&theme=nord"></a></td>
-		<td><a href="https://github.com/lekhya25"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekhya25&theme=nord_dark"></a></td>
+		<td><a href="https://github.com/pranav-rn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lekhya25&theme=nord"></a></td>
+		<td><a href="https://github.com/pranav-rn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekhya25&theme=nord_dark"></a></td>
 	</tr>
 	</table>
 
@@ -107,4 +107,4 @@ src="https://img.shields.io/github/followers/pranav-rn?logo=github&style=for-the
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lekhya25&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pranav-rn&icon=0&color=0)](https://visitcount.itsvg.in)
