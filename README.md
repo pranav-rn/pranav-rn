@@ -97,8 +97,8 @@ src="https://img.shields.io/github/followers/pranav-rn?logo=github&style=for-the
 		<td colspan = "2"><a href = "https://github.com/pranav-rn"><img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-rn&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://github.com/pranav-rn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lekhya25&theme=nord"></a></td>
-		<td><a href="https://github.com/pranav-rn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lekhya25&theme=nord_dark"></a></td>
+		<td><a href="https://github.com/pranav-rn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-rn&theme=nord"></a></td>
+		<td><a href="https://github.com/pranav-rn"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav-rn&theme=nord_dark"></a></td>
 	</tr>
 	</table>
 
